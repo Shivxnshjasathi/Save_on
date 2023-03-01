@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954002525659",
+    "project_id": "save-on-2",
+    "storage_bucket": "save-on-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954002525659:android:86a5ba2428b3100d226bfe",
+        "android_client_info": {
+          "package_name": "com.example.beavert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954002525659-v8k1egaqh7kr2t254adlu9m116bgepiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQZSHtkVPGqaDXP2ejL_qpdt9fmq8A4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954002525659-v8k1egaqh7kr2t254adlu9m116bgepiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
